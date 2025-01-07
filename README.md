@@ -70,3 +70,12 @@ def main():
 if _name_ == "_main_":
     main()
 ```
+
+## Penjelasan  Kode:
+1. Class Siswa (Data): Merepresentasikan data siswa dengan atribut nama dan nilai.
+
+2. Class InputView (View Input): Bertanggung jawab untuk menerima input dari pengguna dan melakukan validasi. Menggunakan try-except untuk menangani ValueError jika input tidak valid.
+
+3. Class ProsesData (Proses): Membuat objek Siswa berdasarkan input yang diberikan.
+
+4. Class TampilanView (View Output): Menampilkan data siswa dalam bentuk tabel. Menangani kasus jika belum ada data siswa.

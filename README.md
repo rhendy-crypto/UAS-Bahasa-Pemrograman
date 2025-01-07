@@ -97,3 +97,12 @@ Tambah siswa lagi? (y/t): t
 | Ani             | 92    |
 ------------------------------
 ```
+
+## Konsep OOP yang Diterapkan:
+```
+• Encapsulation (Enkapsulasi): Data dan method yang bekerja pada data tersebut dibungkus dalam class. Contoh: Class Siswa menyimpan data nama dan nilai.
+
+• Modularitas: Kode dibagi menjadi modul-modul (class) yang terpisah, sehingga lebih mudah dikelola dan dimengerti.
+
+• Separation of Concerns (Pemisahan Tanggung Jawab): Setiap class memiliki tanggung jawab yang spesifik, seperti input, proses, dan output.
+```

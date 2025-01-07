@@ -8,3 +8,6 @@ class data, class view, dan class process)
 • Program menapilkan hasil (dapat berupa table view)
 Jawablah dengan benar dan tepat serta lengkap
 ```
+Program ini akan meminta input data siswa (nama dan nilai), melakukan validasi input, dan menampilkan hasilnya dalam bentuk tabel.
+
+## Berikut kode programnya:

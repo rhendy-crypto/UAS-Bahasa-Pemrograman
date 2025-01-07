@@ -79,3 +79,21 @@ if _name_ == "_main_":
 3. Class ProsesData (Proses): Membuat objek Siswa berdasarkan input yang diberikan.
 
 4. Class TampilanView (View Output): Menampilkan data siswa dalam bentuk tabel. Menangani kasus jika belum ada data siswa.
+
+5. Fungsi main(): Mengendalikan alur program, membuat instance dari setiap class, dan memanggil method yang sesuai.
+
+## Contoh Penggunaan:
+```
+Masukkan nama siswa: Budi
+Masukkan nilai siswa: 85
+Tambah siswa lagi? (y/t): y
+Masukkan nama siswa: Ani
+Masukkan nilai siswa: 92
+Tambah siswa lagi? (y/t): t
+------------------------------
+| Nama            | Nilai |
+------------------------------
+| Budi            | 85    |
+| Ani             | 92    |
+------------------------------
+```

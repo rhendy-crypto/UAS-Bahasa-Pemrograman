@@ -127,5 +127,5 @@ Tambah siswa lagi? (y/t): t
 ## Kesimpulan
 Dengan penjelasan ini, Anda seharusnya dapat memahami bagaimana program ini bekerja dan bagaimana konsep modular dan OOP diimplementasikan. Program ini juga sudah dilengkapi dengan validasi input menggunakan try-except.
 
-##© Rhendy Zhaky Alvian
-e-mail: rhendyzhakyalvian@gmail.com
+## © Rhendy Zhaky Alvian
+email: rhendyzhakyalvian@gmail.com

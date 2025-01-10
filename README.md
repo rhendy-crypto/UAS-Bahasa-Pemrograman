@@ -106,3 +106,7 @@ Tambah siswa lagi? (y/t): t
 
 • Separation of Concerns (Pemisahan Tanggung Jawab): Setiap class memiliki tanggung jawab yang spesifik, seperti input, proses, dan output.
 
+## (1) Class Siswa (Data)
+![image](https://github.com/user-attachments/assets/b34c7eec-1110-46fc-ad38-b528672188d6)
+
+## (2) 

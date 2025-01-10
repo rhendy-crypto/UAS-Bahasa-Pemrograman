@@ -106,6 +106,8 @@ Tambah siswa lagi? (y/t): t
 
 • Separation of Concerns (Pemisahan Tanggung Jawab): Setiap class memiliki tanggung jawab yang spesifik, seperti input, proses, dan output.
 
+## Berikut adalah Kode Programnya:
+python
 ## (1) Class Siswa (Data)
 ![image](https://github.com/user-attachments/assets/b34c7eec-1110-46fc-ad38-b528672188d6)
 
@@ -125,7 +127,7 @@ Tambah siswa lagi? (y/t): t
 ![image](https://github.com/user-attachments/assets/deccbc76-aeee-4ae2-9a39-a99683f28f6d)
 
 ## Kesimpulan
-Dengan penjelasan ini, Anda seharusnya dapat memahami bagaimana program ini bekerja dan bagaimana konsep modular dan OOP diimplementasikan. Program ini juga sudah dilengkapi dengan validasi input menggunakan try-except.
+Dengan penjelasan ini, Kita seharusnya dapat memahami bagaimana program ini bekerja dan bagaimana konsep modular dan OOP diimplementasikan. Program ini juga sudah dilengkapi dengan validasi input menggunakan try-except.
 
 ## © Rhendy Zhaky Alvian
 email: rhendyzhakyalvian@gmail.com

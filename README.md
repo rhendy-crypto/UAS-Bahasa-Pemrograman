@@ -109,22 +109,22 @@ Tambah siswa lagi? (y/t): t
 ## Berikut adalah Kode Programnya:
 python
 ## (1) Class Siswa (Data)
-![image](https://github.com/user-attachments/assets/b34c7eec-1110-46fc-ad38-b528672188d6)
+![image](https://github.com/user-attachments/assets/01c1317f-104e-47a8-baa8-5f54bf82453c)
 
 ## (2) Class Input View (View Input)
-![image](https://github.com/user-attachments/assets/8f4596aa-3a06-4963-986f-537ed5f69685)
+![image](https://github.com/user-attachments/assets/afafa37d-18c6-4bc8-a5ff-bbac5e65697d)
 
 ## (3) Class Proses Data (Proses)
-![image](https://github.com/user-attachments/assets/8f66481c-b9f3-4f10-b3e9-65763320a961)
+![image](https://github.com/user-attachments/assets/0283990a-891b-4505-9a0a-228c4414dd9a)
 
 ## (4) Class Tampilan View (View Output)
-![image](https://github.com/user-attachments/assets/8398990d-f9ae-494d-b547-09828e2cc986)
+![image](https://github.com/user-attachments/assets/3601051d-6e60-4457-ae9f-89fdd800fe8a)
 
 ## (5) Fungsi Main ()
-![image](https://github.com/user-attachments/assets/27b6643b-7f0b-494c-a6b0-a80ad96c103c)
+![image](https://github.com/user-attachments/assets/45f43cb2-4661-4197-b156-147cc748f279)
 
 ## (6) Contoh Penggunaan
-![image](https://github.com/user-attachments/assets/deccbc76-aeee-4ae2-9a39-a99683f28f6d)
+![image](https://github.com/user-attachments/assets/f739b4e1-8179-423b-8226-889339d227c7)
 
 ## Kesimpulan
 Dengan penjelasan ini, Kita seharusnya dapat memahami bagaimana program ini bekerja dan bagaimana konsep modular dan OOP diimplementasikan. Program ini juga sudah dilengkapi dengan validasi input menggunakan try-except.

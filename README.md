@@ -112,7 +112,7 @@ python
 ![image](https://github.com/user-attachments/assets/01c1317f-104e-47a8-baa8-5f54bf82453c)
 
 ## (2) Class Input View (View Input)
-![image](https://github.com/user-attachments/assets/afafa37d-18c6-4bc8-a5ff-bbac5e65697d)
+![image](https://github.com/user-attachments/assets/68507311-d02f-44b8-af4c-3a0a9e7f9aa0)
 
 ## (3) Class Proses Data (Proses)
 ![image](https://github.com/user-attachments/assets/0283990a-891b-4505-9a0a-228c4414dd9a)

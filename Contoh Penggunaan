@@ -1,0 +1,15 @@
+## Contoh Penggunaan:
+```
+Masukkan nama siswa: Budi
+Masukkan nilai siswa: 85
+Tambah siswa lagi? (y/t): y
+Masukkan nama siswa: Ani
+Masukkan nilai siswa: 92
+Tambah siswa lagi? (y/t): t
+------------------------------
+| Nama            | Nilai |
+------------------------------
+| Budi            | 85    |
+| Ani             | 92    |
+------------------------------
+```

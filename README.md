@@ -109,4 +109,23 @@ Tambah siswa lagi? (y/t): t
 ## (1) Class Siswa (Data)
 ![image](https://github.com/user-attachments/assets/b34c7eec-1110-46fc-ad38-b528672188d6)
 
-## (2) 
+## (2) Class Input View (View Input)
+![image](https://github.com/user-attachments/assets/8f4596aa-3a06-4963-986f-537ed5f69685)
+
+## (3) Class Proses Data (Proses)
+![image](https://github.com/user-attachments/assets/8f66481c-b9f3-4f10-b3e9-65763320a961)
+
+## (4) Class Tampilan View (View Output)
+![image](https://github.com/user-attachments/assets/8398990d-f9ae-494d-b547-09828e2cc986)
+
+## (5) Fungsi Main ()
+![image](https://github.com/user-attachments/assets/27b6643b-7f0b-494c-a6b0-a80ad96c103c)
+
+## (6) Contoh Penggunaan
+![image](https://github.com/user-attachments/assets/deccbc76-aeee-4ae2-9a39-a99683f28f6d)
+
+## Kesimpulan
+Dengan penjelasan ini, Anda seharusnya dapat memahami bagaimana program ini bekerja dan bagaimana konsep modular dan OOP diimplementasikan. Program ini juga sudah dilengkapi dengan validasi input menggunakan try-except.
+
+##© Rhendy Zhaky Alvian
+e-mail: rhendyzhakyalvian@gmail.com
